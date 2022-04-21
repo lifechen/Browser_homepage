@@ -4,6 +4,10 @@
     font-size: 13px;
 }
 
+#clock{undefined
+ border: 1px solid #ccc;
+ }
+
 #logo{
     width: 280px;
     height: 100px;
